@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "command": "sh",
+            "taskName": "build",
+            "isBuildCommand": true,
+            "args": ["scripts/build_flash.sh"]
+        }
+    ],
+    "problemMatcher": "$haxe"
+}
