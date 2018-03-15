@@ -1,7 +1,7 @@
 // Place your settings in this file to overwrite default and user settings.
 {
     "haxe.displayConfigurations": [ // one or more configurations for the haxe completion server
-        ["project.hxml"],
+        ["haxe/project.hxml"],
     ],
     "haxe.displayServer": { // configuration for starting haxe completion server itself
         "haxePath": "haxe", // path to the executable (default: `haxe`)
